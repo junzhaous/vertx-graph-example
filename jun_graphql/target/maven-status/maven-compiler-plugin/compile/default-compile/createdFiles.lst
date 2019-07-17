@@ -1,0 +1,4 @@
+io\vertx\example\web\graphql\Client.class
+io\vertx\example\web\graphql\Link.class
+io\vertx\example\web\graphql\Server.class
+io\vertx\example\web\graphql\User.class
